@@ -1,0 +1,17 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.image {
+	width: 100%;
+	height: 100vh;
+	position: relative;
+}
+
+.title {
+	position: absolute;
+	top: 48%;
+	left: 48%;
+	color: orange;
+}
